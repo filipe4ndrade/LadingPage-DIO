@@ -141,3 +141,14 @@ header .navegation li a:hover{
     width: 1000px;
     background-position: left;
 }
+
+.content .textServicos h2{
+    font-size: 3.0em;
+    color: #21ce3e;
+    
+}
+.content .textServicos p{
+    color: #fff;
+    text-align: justify;
+    font: normal 30px;
+}
