@@ -135,7 +135,9 @@ header .navegation li a:hover{
 .boxImg{
     position: absolute;
     right: 0;
+ 
     bottom: -40px;
+    
 }
 .boxImg img{
     width: 1000px;
@@ -151,4 +153,11 @@ header .navegation li a:hover{
     color: #fff;
     text-align: justify;
     font: normal 30px;
+    font-size: 20px;
+}
+.textServicos h2{
+    margin: 10px;
+}
+.textServicos p, h2{
+    width: 1000px;
 }
