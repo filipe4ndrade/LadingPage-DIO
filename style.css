@@ -153,11 +153,14 @@ header .navegation li a:hover{
     color: #fff;
     text-align: justify;
     font: normal 30px;
-    font-size: 20px;
+    font-size: 22px;
+    line-height: 1.5;
 }
 .textServicos h2{
-    margin: 10px;
+   margin: 20px;
+   line-height: 1.2;
 }
 .textServicos p, h2{
     width: 1000px;
+    
 }
